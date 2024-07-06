@@ -1,3 +1,5 @@
 06.07.2024
 July SP
 Merged QPR3
+Switched to EROFS for appropriate partitions
+Added EROFS with compression to kernel
