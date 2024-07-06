@@ -3,3 +3,5 @@ July SP
 Merged QPR3
 Switched to EROFS for appropriate partitions
 Added EROFS with compression to kernel
+Added OTA support
+Removed FW boost
