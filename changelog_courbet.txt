@@ -1,3 +1,9 @@
+29.03.2025
+Initial A15 Release
+Openela 356-rc1
+Merged latest changes from https://github.com/xiaomi-sm6150
+Device as WebCam
+
 11.08.2024
 Device:
 Merged latest CLO tags in kernel
